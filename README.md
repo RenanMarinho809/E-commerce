@@ -1,37 +1,37 @@
-# 💻 **Gerador de QR Code para E-commerce**
+# 💻 **Utilitário de QR Code para E-commerce**
 
-## 📖 **Sobre o Projeto**
-Este projeto consiste no desenvolvimento de um conjunto de utilitários para e-commerce, com foco em escalabilidade para facilitar a adição de novas funcionalidades no futuro.
+## 📖 **Descrição do Projeto**
+O objetivo deste projeto é construir ferramentas para e-commerce com foco na escalabilidade, permitindo a integração de novas funcionalidades de forma simples no futuro.
 
 ---
 
-## 📚 **Requisitos de Conhecimento**
-Para acompanhar este conteúdo, é importante ter familiaridade prévia com os seguintes tópicos:
+## 📚 **Conhecimentos Necessários**
+Para aproveitar este material, é recomendado possuir conhecimentos prévios sobre:
 
 - **Lógica de Programação**  
-- **JavaScript** (nível básico)  
-- **Node.js** (nível básico)  
-- **Módulos do Node**  
-- Gerenciamento de pacotes com **NPM**, incluindo dependências  
-- Configuração e uso de **variáveis de ambiente** (`.env`)
+- Fundamentos de **JavaScript**  
+- Noções básicas de **Node.js**  
+- Utilização de **Módulos do Node**  
+- Gerenciamento de dependências com o **NPM**  
+- Configuração e manipulação de **variáveis de ambiente** (`.env`)
 
 ---
 
-## 🛠️ **Habilidades e Competências Desenvolvidas**
-Durante o curso, você aprenderá:
+## 🛠️ **Competências a Serem Desenvolvidas**
+Neste curso, você irá aprender:
 
-- Como gerar QR Codes utilizando Node.js.  
-- Gerenciamento eficiente de dependências em um projeto.  
-- Aplicação do conceito de **arquitetura em camadas** para organização de projetos.  
+- A gerar QR Codes usando **Node.js**  
+- Como gerenciar dependências de maneira eficaz  
+- Aplicar a **arquitetura em camadas** para organizar projetos com maior clareza e modularidade  
 
 ---
 
-## 🎯 **Objetivos e Resultados Esperados**
-Ao concluir este curso, você será capaz de:
+## 🎯 **Metas e Resultados Esperados**
+Ao final do curso, você será capaz de:
 
-- Desenvolver projetos em **Node.js** que lidem com múltiplas dependências de forma eficiente.  
-- Criar soluções escaláveis para atender às necessidades de um e-commerce.  
+- Construir projetos em **Node.js** com múltiplas dependências de forma eficiente  
+- Projetar soluções escaláveis para atender demandas específicas de e-commerce  
 
----  
+---
 
-🌟 **Prepare-se para aprimorar suas habilidades e criar soluções incríveis com QR Codes para e-commerce!**
+🌟 **Prepare-se para expandir suas habilidades e criar soluções inovadoras com QR Codes no universo do e-commerce!**
